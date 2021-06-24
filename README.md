@@ -2,8 +2,7 @@
 ## Project Description 
 This project is for predicting quality of wines using various regression methods. The purpose of this was to get familiar with workflow in a typical machine
 learning problem, use some exploratory data analysis, preprocess data, use hyperparameter selection method, implement k-fold cross validatiaon technique and use regression 
-algorithms viz. LASSO regression, random forest regression and support vector regression. All the ML algorithms are implemented using in built functions from scikit learn library
-in python.
+algorithms viz. LASSO regression, random forest regression and support vector regression. All the ML algorithms are implemented using in built functions from scikit learn library in python.
 
 ## Data
 Data used for this project is taken from Wine Quality Data Set at UCI ML repo https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv
